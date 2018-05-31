@@ -1,3 +1,3 @@
-# Grade-11-Resume
+They put the wrong link go to the GameThing repository 
 
-## Jackie Trinh
+https://github.com/JackieTrinh/GameProject
